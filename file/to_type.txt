@@ -1,0 +1,17 @@
+{
+	"address_input": {
+		[columns...]: [values...]
+	},
+	"uprn": [],
+	"address_parsed": {
+		"house": None,
+		"number": [],
+		"unit": None,
+		"street": None,
+		"street_2": None,
+		"locality_2": None,
+		"locality_1": None,
+		"town": None,
+		"postcode": None
+	}
+}
