@@ -1,4 +1,4 @@
-name: keyboard
+name: autotype
 channels:
   - defaults
 dependencies:
