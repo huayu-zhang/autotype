@@ -31,5 +31,5 @@ dependencies:
     - pyscreeze==0.1.26
     - python3-xlib==0.15
     - pytweening==1.0.3
-prefix: /home/huayu/anaconda3/envs/keyboard
+
 
